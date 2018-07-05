@@ -1,4 +1,4 @@
-﻿namespace ColorblindProjecty
+﻿namespace ColorblindProject
 {
     partial class FormMainWindow
     {

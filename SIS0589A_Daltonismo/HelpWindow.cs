@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ColorblindProjecty
+namespace ColorblindProject
 {
     public partial class HelpWindow : Form
     {
