@@ -1,4 +1,4 @@
-﻿namespace SIS0589A_Daltonismo
+﻿namespace ColorblindProject
 {
     partial class HelpWindow
     {

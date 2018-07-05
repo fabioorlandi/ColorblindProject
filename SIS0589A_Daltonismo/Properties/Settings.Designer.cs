@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SIS0589A_Daltonismo.Properties
+namespace ColorblindProject.Properties
 {
 
 
