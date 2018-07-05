@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ColorblindProject.Properties
+namespace ColorblindProjecty.Properties
 {
 
 
