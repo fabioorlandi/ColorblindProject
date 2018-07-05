@@ -1,4 +1,4 @@
-﻿namespace ColorblindProject
+﻿namespace ColorblindProjecty
 {
     partial class AboutWindow
     {
