@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SIS0589A_Daltonismo
+namespace ColorblindProject
 {
     class MouseMove
     {

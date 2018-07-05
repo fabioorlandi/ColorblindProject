@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Input;
 using System.Windows.Forms;
 
-namespace SIS0589A_Daltonismo
+namespace ColorblindProject
 {
     public partial class FormMainWindow : Form
     {
