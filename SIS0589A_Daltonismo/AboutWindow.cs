@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ColorblindProjecty
+namespace ColorblindProject
 {
     public partial class AboutWindow : Form
     {
@@ -20,7 +20,7 @@ namespace ColorblindProjecty
 
 		private void GitHubRepos_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
 		{
-			Process.Start("https://github.com/GitHFabio/ColorblindProjecty");
+			Process.Start("https://github.com/GitHFabio/ColorblindProject");
 		}
 	}
 }

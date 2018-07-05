@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Input;
 using System.Windows.Forms;
 
-namespace ColorblindProjecty
+namespace ColorblindProject
 {
     public partial class FormMainWindow : Form
     {
