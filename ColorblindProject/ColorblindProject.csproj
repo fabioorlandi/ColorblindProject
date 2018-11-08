@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{7D3D2C26-108E-4768-955F-921E6CBF4744}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>SIS0589A_Daltonismo</RootNamespace>
-    <AssemblyName>SIS0589A_Daltonismo</AssemblyName>
+    <RootNamespace>ColorblindProject</RootNamespace>
+    <AssemblyName>ColorblindProject</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
